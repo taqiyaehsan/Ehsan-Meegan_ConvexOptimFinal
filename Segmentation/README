@@ -1,0 +1,7 @@
+Create a Kaggle account and download the Carvana dataset from here: https://www.kaggle.com/c/carvana-image-masking-challenge
+
+Download the train.zip and train_masks.zip files only, create a new folder called Images in this directory, and then drag all the ground truth images (JPGs) and ground truth masks (GIFs) into this folder.  Run the generateDataset program to split the data into training, validation, and testing dataloaders.
+
+Code adapted from: https://github.com/aladdinpersson/Machine-Learning-Collection/tree/master/ML/Pytorch/image_segmentation/semantic_segmentation_unet
+
+Trained with torch version 2.2.2, CUDA version 12.4. Install missing modules as needed.

@@ -3,3 +3,5 @@ To run this code, you must download glove.840B.300d.txt from the following link:
 TreeLSTM code taken from the pytorch dgl examples: https://github.com/dmlc/dgl/tree/master/examples/pytorch/tree_lstm
 
 It is recommended to create a conda environment with Python version torch version 2.2.1, CUDA version 12.1.1, and dgl version 2.1.0 if you want to train with CUDA.  Please see the included conda config file (req.txt) for help.
+
+Download pre-trained weights in the results folder.

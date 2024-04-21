@@ -1,0 +1,1 @@
+Run MNIST.py; it will download the MNIST dataset and begin training on the 9 optimizers for 20 epochs.  After training is done, bar graphs will be displayed.

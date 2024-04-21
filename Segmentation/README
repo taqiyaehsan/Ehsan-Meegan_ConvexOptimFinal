@@ -6,4 +6,4 @@ Code adapted from: https://github.com/aladdinpersson/Machine-Learning-Collection
 
 Trained with torch version 2.2.2, CUDA version 12.4. Install missing modules as needed.
 
-Pre-trained models not included as they are over the 100 MB file size limit.
+Pre-trained weights are not included as they are over the 100 MB file size limit.

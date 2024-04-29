@@ -1,1 +1,2 @@
 CNN implementation using this reference: https://github.com/nidhi-30/CNN-Regression-Pytorch/blob/master/1095526_1dconv.ipynb
+Pre-trained CNN weights in the 'cnn' folder
